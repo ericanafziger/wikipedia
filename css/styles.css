@@ -37,3 +37,32 @@
 .purple {
   background-color: #DACAEB;
 }
+
+.floatleft {
+  float: left;
+  width: 125px;
+  padding-right: 10px;
+}
+
+.floatright {
+  float: right;
+  padding-left: 10px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+.floatright img {
+  width: 100px;
+}
+
+.alignright {
+  text-align: right;
+}
+
+.caption {
+  float: right;
+}
+
+.bg-success {
+  background-color: #F1F6EF;
+}
