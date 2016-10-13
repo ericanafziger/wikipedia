@@ -1,11 +1,13 @@
 .float {
   float: right;
-  width: 70%;
+  width: 85%;
+  display: inline-block;
 }
 
 .sidebar {
   float: left;
-  width: 10%;
+  width: 15%;
+  display: inline-block;
 }
 
 .sidebar img {
@@ -20,4 +22,18 @@
 
 .row {
   height: 100px;
+}
+
+.container {
+  width: 100%;
+}
+
+.title {
+  float: right;
+  width: 85%;
+  display: inline-block;
+}
+
+.purple {
+  background-color: #DACAEB;
 }
