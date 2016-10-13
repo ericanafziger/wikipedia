@@ -8,6 +8,8 @@
   float: left;
   width: 15%;
   display: inline-block;
+  min-height: 100%;
+  position: relative;
 }
 
 .sidebar img {
@@ -51,6 +53,10 @@
   width:400px;
   margin: 0 auto;
   padding-bottom: 10px;
+}
+
+.moveright {
+  float:right;
 }
 
 .floatleft {
