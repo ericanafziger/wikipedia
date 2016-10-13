@@ -5,6 +5,18 @@
   display: inline-block;
 }
 
+.panel {
+  border-radius: 0px;
+}
+.panel-lightgreen{
+  background-color:#F1F6EF;
+  padding: 5px;
+  margin-left: 10px;
+}
+.panel-heading{
+  border-radius: 0px;
+}
+
 .sidebar {
   float: left;
   width: 15%;
