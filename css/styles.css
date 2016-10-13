@@ -38,6 +38,21 @@
   background-color: #DACAEB;
 }
 
+.lightpurple {
+  background-color: #F5EFF6;
+}
+
+.aligncenter {
+  text-align: center;
+}
+
+.centerimg {
+  display: block;
+  width:400px;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
 .floatleft {
   float: left;
   width: 125px;
@@ -65,4 +80,13 @@
 
 .bg-success {
   background-color: #F1F6EF;
+}
+
+.lightblue {
+  background-color: #EFF6F6;
+}
+
+.tiny {
+  font-size: 10px;
+  text-align: right;
 }
