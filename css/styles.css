@@ -27,6 +27,9 @@
   height: 100px;
 }
 
+.navrow {
+  height: 50px;
+}
 .container {
   width: 100%;
 }
