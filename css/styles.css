@@ -11,11 +11,12 @@
 .panel-lightgreen{
   background-color:#F1F6EF;
   padding: 5px;
-  margin-left: 10px;
+  margin-left: 30px;
 }
 .panel-heading{
   border-radius: 0px;
 }
+
 
 .sidebar {
   float: left;
@@ -23,6 +24,10 @@
   display: inline-block;
   min-height: 100%;
   position: relative;
+}
+
+.welcome {
+  padding-left: 30px;
 }
 
 .sidebar img {
@@ -41,7 +46,9 @@
 
 .navrow {
   height: 50px;
+  padding-left: 30px;
 }
+
 .container {
   width: 100%;
 }
